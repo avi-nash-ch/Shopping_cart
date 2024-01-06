@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Codeigniter Shopping cart with Ajax JQuery</title>
+    <title>Codeigniter Shopping cart with Ajax Jquery</title>
     <link rel="stylesheet" href="<?= base_url("assets/css/bootstrap.min.css") ?>">
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 </head>
